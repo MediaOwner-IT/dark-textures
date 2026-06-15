@@ -15,6 +15,7 @@ Transform Roblox with darker, cleaner, and more immersive textures.
 ![Issues](https://img.shields.io/github/issues/MediaOwner-IT/dark-textures?style=for-the-badge&color=black)
 ![Version](https://img.shields.io/badge/version-0.1.1-black?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/MediaOwner-IT/dark-textures/total?style=for-the-badge&color=black)
+[⬇ Download Latest Release](https://github.com/MediaOwner-IT/dark-textures/releases/latest)
 
 </div>
 
