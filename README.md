@@ -8,9 +8,15 @@ Transform Roblox with darker, cleaner, and more immersive textures.
 
 ![Banner](images/banner.png)
 
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub downloads](https://img.shields.io/github/downloads/USERNAME/REPOSITORY/total?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-Latest-black?style=for-the-badge)
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/MediaOwner-IT/dark-textures?style=for-the-badge&color=black)
+![Forks](https://img.shields.io/github/forks/MediaOwner-IT/dark-textures?style=for-the-badge&color=black)
+![Issues](https://img.shields.io/github/issues/MediaOwner-IT/dark-textures?style=for-the-badge&color=black)
+![Version](https://img.shields.io/badge/version-0.1.1-black?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/MediaOwner-IT/dark-textures/total?style=for-the-badge&color=black)
+
+</div>
 
 ---
 
