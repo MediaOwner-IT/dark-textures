@@ -1,10 +1,16 @@
-# 🌑 DARK TEXTURES 🌑
+<p align="center">
+  <img src="images/banner.png" alt="Dark Textures Banner" />
+</p>
 
-### 🖤 A Dark Roblox Texture Pack 🖤
+<h1 align="center">🌑 DARK TEXTURES 🌑</h1>
 
+<h3 align="center">🖤 A Dark Roblox Texture Pack 🖤</h3>
+
+<p align="center">
 Transform Roblox with darker, cleaner, and more immersive textures.
+</p>
 
-![Banner](images/banner.png)
+---
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/MediaOwner-IT/dark-textures?style=for-the-badge&color=black">
@@ -22,39 +28,39 @@ Transform Roblox with darker, cleaner, and more immersive textures.
 
 ---
 
-## 🌙 MAKE ROBLOX DARKER
+## 🌙 About
 
-A texture replacement pack that changes Roblox's default textures into a darker aesthetic for a cleaner and more modern appearance.
-
----
-
-## ✨ FEATURES
-
-- 🌑 Dark textures
-- ⚡ Easy installation
-- 🎮 Roblox compatible
-- 🔄 Reversible anytime
-- 🖤 Clean modern look
+A texture replacement pack that transforms Roblox’s default visuals into a darker, cleaner aesthetic for a more modern and immersive experience.
 
 ---
 
-## 📸 SCREENSHOTS
+## ✨ Features
 
-![Preview 1](images/preview1.png)
-![Preview 2](images/preview2.png)
-![Preview 3](images/preview3.png)
+- 🌑 Dark, modern textures  
+- ⚡ Simple installation  
+- 🎮 Fully Roblox compatible  
+- 🔄 Easy to revert anytime  
+- 🖤 Clean, minimal aesthetic  
 
 ---
 
-## 📥 INSTALLATION
+## 📸 Screenshots
 
-### Step 1
-Download the latest release.
+<p align="center">
+  <img src="images/preview1.png" width="32%">
+  <img src="images/preview2.png" width="32%">
+  <img src="images/preview3.png" width="32%">
+</p>
 
-### Step 2
-Open Roblox folder:
+---
 
+## 📥 Installation
 
+### 1. Download
+Get the latest release from the button above.
+
+### 2. Locate Roblox Folder
+Navigate to:
 Roblox
 └── Versions
 └── version-xxxxxxxxxxxx
@@ -62,41 +68,33 @@ Roblox
 └── pc
 └── textures
 
+### 3. Copy Files
+Copy everything inside the `Dark Textures` folder.
 
-### Step 3
-Copy files from the Dark Textures folder.
-
-### Step 4
-Paste them into:
-
-
+### 4. Paste
+Paste into:
 PlatformContent\pc\textures
 
+### 5. Replace Files
+Click **Replace All** when prompted.
 
-### Step 5
-Click **Replace All**.
+### 6. Restart Roblox
+Launch Roblox again to apply changes.
 
-### Step 6
-Restart Roblox.
-
-🎉 DONE
-
----
-
-## ⚠️ DISCLAIMER
-
-- No exploits
-- No scripts
-- No cheats
-- No game modifications
-
-Roblox updates may overwrite textures.
+🎉 Done!
 
 ---
 
-## 📂 STRUCTURE
+## ⚠️ Disclaimer
 
+- No exploits or cheats included  
+- No scripts or injections  
+- Pure texture replacement only  
+- Roblox updates may overwrite files  
 
+---
+
+## 📂 Project Structure
 Dark-Textures/
 ├── textures/
 ├── images/
@@ -106,18 +104,18 @@ Dark-Textures/
 │ └── preview3.png
 └── README.md
 
+---
+
+## ❤️ Support
+
+- ⭐ Star the repo  
+- 🍴 Fork it  
+- 🐛 Report issues  
+- 💡 Suggest improvements  
 
 ---
 
-## ❤️ SUPPORT
-
-- ⭐ Star the repo
-- 🍴 Fork it
-- 🐛 Report bugs
-- 💡 Suggest ideas
-
----
-
-## 🌑 THANK YOU 🌑
-
-🖤 Enjoy a darker Roblox experience 🖤
+<p align="center">
+  <b>🌑 Thank you for using Dark Textures 🌑</b><br>
+  🖤 Enjoy a darker Roblox experience 🖤
+</p>
