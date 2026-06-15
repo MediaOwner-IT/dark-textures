@@ -195,7 +195,9 @@ If you enjoy Dark Textures:
 🐛 Report bugs
 💡 Suggest improvements
 <div align="center">
-🌑 THANK YOU FOR USING DARK TEXTURES 🌑
-🖤 Enjoy a darker Roblox experience 🖤
 
-</div> ```
+# 🌑 THANK YOU FOR USING DARK TEXTURES 🌑
+
+### 🖤 Enjoy a darker Roblox experience 🖤
+
+</div>
